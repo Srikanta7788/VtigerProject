@@ -36,5 +36,43 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/91700/.m2/repository/org/seleniumhq/selenium/selenium-api/4.12.1/selenium-api-4.12.1.jar" sourcepath="C:/Users/91700/.m2/repository/org/seleniumhq/selenium/selenium-api/4.12.1/selenium-api-4.12.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="4.12.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/91700/.p2/pool/plugins/org.testng_7.4.0.r202105021533.jar" sourcepath="C:/Users/91700/.p2/pool/plugins/org.testng.source_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91700/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.12.1/selenium-chrome-driver-4.12.1.jar" sourcepath="C:/Users/91700/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.12.1/selenium-chrome-driver-4.12.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
+			<attribute name="maven.version" value="4.12.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/91700/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.12.1/selenium-edge-driver-4.12.1.jar" sourcepath="C:/Users/91700/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.12.1/selenium-edge-driver-4.12.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-edge-driver"/>
+			<attribute name="maven.version" value="4.12.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/91700/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.12.1/selenium-firefox-driver-4.12.1.jar" sourcepath="C:/Users/91700/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.12.1/selenium-firefox-driver-4.12.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-firefox-driver"/>
+			<attribute name="maven.version" value="4.12.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/jarfiles/selenium-server-4.12.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
